@@ -4,5 +4,5 @@ For learning purpose I am following react js tutorials from [react.dev](https://
 
 ## Using technology
 
-1. React 19.5.0
+1. React 19.1.0
 2. Venilla CSS
